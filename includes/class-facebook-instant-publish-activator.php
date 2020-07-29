@@ -20,17 +20,19 @@
  * @subpackage Plugin_Name/includes
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Activator {
+class Plugin_Name_Activator
+{
 
-	/**
-	 * Short Description. (use period)
-	 *
-	 * Long Description.
-	 *
-	 * @since    1.0.0
-	 */
-	public static function activate() {
-
-	}
+  /**
+   * Short Description. (use period)
+   *
+   * Long Description.
+   *
+   * @since    1.0.0
+   */
+  public static function activate()
+  {
+    
+  }
 
 }
